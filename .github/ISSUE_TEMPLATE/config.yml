@@ -1,5 +1,0 @@
-blank_issues_enabled: true
-contact_links:
-  - name: Issue Template
-    url:  https://github.com/IB96/devops-capstone-project/edit/main/.github/ISSUE_TEMPLATE/user-story.md
-    about: template issue
